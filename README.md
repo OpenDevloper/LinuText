@@ -10,6 +10,7 @@ this is a source based program so you have to compile it, please follow the step
 6. enjoy and dont forget to contribute to this project!
 
 this project is sponserd by Sdevlopment (me)
+the original name of this project is LinuNote but is reffred as LinuText in this git repo
 
 some info about me:
 name - IDK
