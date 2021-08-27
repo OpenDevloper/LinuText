@@ -9,6 +9,8 @@ this is a source based program so you have to compile it, please follow the step
 5. for windows users, the steps are the same just use cmd!
 6. enjoy and dont forget to contribute to this project!
 
+this project is sponserd by Sdevlopment (me)
+
 some info about me:
 name - IDK
 age - 11
